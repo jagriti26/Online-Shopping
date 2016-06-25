@@ -1,0 +1,1 @@
+<div> <img src="images/paypal.jpg"</div>

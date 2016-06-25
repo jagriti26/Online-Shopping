@@ -1,0 +1,12 @@
+$(document).ready(function(){
+	$("#open").click(function(){
+		$("#mySidenav").css("width","350px");
+		$("#main").css("marginLeft","350px");
+	});
+});
+ $(document).ready(function(){
+	$("#close").click(function(){
+		$("#mySidenav").css("width","0px");
+		$("#main").css("marginLeft","0px");
+	});
+});	
